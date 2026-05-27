@@ -1,0 +1,5 @@
+footer:
+    copytext: "Copyright &copy; MPI4AI 2026"
+    image: assets/img/nsf-logo.png
+    text: "THRIVE-AI is funded by the U.S. National Science Foundation (NSF) under the Office of Advanced Cyberinfrastructure (OAC) awards [#2514054](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2514054), [#2514055](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2514055), [#2514056](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2514056), [#2514057](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2514057)."
+    subtext: "Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation."

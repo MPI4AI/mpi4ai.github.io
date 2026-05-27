@@ -1,0 +1,8 @@
+{%- if site.data.sitetext.footer.text -%}
+  <p class="text-small mb-0">
+  	<p>{{ site.data.sitetext.footer.copytext }}</p>
+  	<img src="assets/img/nsf-logo.png" width="200" alt="U.S. National Science Foundation (NSF) Logo">
+  	{{ site.data.sitetext.footer.text | markdownify }}
+  	{{ site.data.sitetext.footer.subtext | markdownify }}
+  </p>
+{%- endif -%}
