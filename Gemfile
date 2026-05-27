@@ -1,7 +1,13 @@
-source 'https://rubygems.org'
+#after any changes to the Gemfile, execute bundle update!
+source "https://rubygems.org"
 
-gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
-# gem "webrick"        # required when using Ruby >= 3 and Jekyll <= 4.2.2
+gem "jekyll-remote-theme"
 
-gem "just-the-docs", "0.12.0" # pinned to the current release
-# gem "just-the-docs"        # always download the latest release
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.6"
+  gem "github-pages" # https://github.com/github/pages-gem
+end
+
+# Uncomment the following line if developing on Windows: 
+# Performance-booster for watching directories on Windows
+# gem "wdm", ">= 0.1.0" if Gem.win_platform?

@@ -1,7 +1,11 @@
+remote_theme: just-the-docs/just-the-docs
+
 title: MPI4AI
 description: ""
-theme: just-the-docs
 
 url: https://mpi4ai.github.io
 
 aux_links: false
+
+plugins:
+  - jekyll-remote-theme
