@@ -4,4 +4,4 @@ layout: home
 nav_order: 1
 ---
 
-# Hello, World!
+# MPI4AI
