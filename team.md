@@ -9,22 +9,22 @@ layout: page
 
 | Name | Role |
 | :------- | :------: |
-| Anthony Skjellum, PhD | Principle Investigator |
+| Anthony Skjellum, PhD | Principal Investigator |
 
 ### University of Tennessee, Knoxville
 
 | Name | Role |
 | :------- | :------: |
-| Tabitha Samuel, PhD | Principle Investigator |
+| Tabitha Samuel, PhD | Principal Investigator |
 
 ### Stony Brook University
 
 | Name | Role |
 | :------- | :------: |
-| Joseph Schuchart, PhD | Principle Investigator |
+| Joseph Schuchart, PhD | Principal Investigator |
 
 ### Illinois Institute of Technology
 
 | Name | Role |
 | :------- | :------: |
-| Bogdan Nicolae, PhD | Principle Investigator |
+| Bogdan Nicolae, PhD | Principal Investigator |
