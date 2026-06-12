@@ -11,15 +11,17 @@ layout: page
 | :------- | :------: |
 | <img src="assets/img/team/Anthony Skjellum.jpg" width="100"><br>Anthony Skjellum, PhD | Principal Investigator |
 | <img src="assets/img/team/Riley Shipley.jpg" width="100"><br>Riley Shipley | Research Software Engineer |
-| Kayla Humphrey | Graduate Student Assistant |
-| Amr Abouelmagd | Graduate Student Assistant |
+| Kayla Humphrey | Graduate Research Assistant |
+| Amr Abouelmagd | Graduate Research Assistant |
 
 ### University of Tennessee, Knoxville
 
 | Name | Role |
 | :------- | :------: |
 | <img src="assets/img/team/Tabitha Samuel.jpg" width="100"><br>Tabitha Samuel, PhD | Principal Investigator |
-| Michael Jantz, PhD | Co-Principal Investigator |
+| <img src="assets/img/team/Michael Jantz.jpg" width="100"><br>Michael Jantz, PhD | Co-Principal Investigator |
+| <img src="assets/img/team/Zach McMichael.jpg" width="100"><br>Zach McMichael | Graduate Research Assistant |
+| <img src="assets/img/team/Jacob Malloy.jpg" width="100"><br>Jacob Malloy | Graduate Research Assistant |
 
 ### Stony Brook University
 
