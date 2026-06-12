@@ -33,4 +33,4 @@ layout: page
 
 | Name | Role |
 | :------- | :------: |
-| Bogdan Nicolae, PhD | Principal Investigator |
+| <img src="assets/img/team/Bogdan Nicolae.jpg" width="100"><br><a href="https://www.bnicolae.net/">Bogdan Nicolae, PhD</a> | Principal Investigator |
