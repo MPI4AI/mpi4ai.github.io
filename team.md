@@ -11,7 +11,7 @@ layout: page
 | :------- | :------: |
 | <img src="assets/img/team/Anthony Skjellum.jpg" width="100"><br>Anthony Skjellum, PhD | Principal Investigator |
 | <img src="assets/img/team/Riley Shipley.jpg" width="100"><br>Riley Shipley | Research Software Engineer |
-| Kayla Humphrey | Graduate Research Assistant |
+| <img src="assets/img/team/Kayla Humphrey.jpg" width="100"><br>Kayla Humphrey | Graduate Research Assistant |
 | Amr Abouelmagd | Graduate Research Assistant |
 
 ### University of Tennessee, Knoxville
